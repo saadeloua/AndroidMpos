@@ -1,3 +1,3 @@
 # AndroidMpos
 MposApplication
-Beta project
+Project in progress
